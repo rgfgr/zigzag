@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254562748342",
+    "firebase_url": "https://unity-zigzag-game-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "unity-zigzag-game",
+    "storage_bucket": "unity-zigzag-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254562748342:android:577da3530ded1afd1fa317",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.zigzag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254562748342-i08gpvjbibdbgqr16dr8p60dfde2u42n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYGHc2XhC-bYTEH5jx0TKhOOFStd83hs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254562748342-i08gpvjbibdbgqr16dr8p60dfde2u42n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
